@@ -14,3 +14,4 @@
 * Redux
 * Axios
 * Scss
+* Morgen ne zver'
