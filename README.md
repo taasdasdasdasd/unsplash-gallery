@@ -14,4 +14,3 @@
 * Redux
 * Axios
 * Scss
-* Morgen
